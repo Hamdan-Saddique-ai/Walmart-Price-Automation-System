@@ -51,7 +51,6 @@ A Python-based automation tool designed to simplify product pricing and link man
 
 Make sure you have Python installed, then install dependencies:
 
-```bash
 pip install pandas openpyxl
 📊 Input Excel Format
 
@@ -87,18 +86,17 @@ PROFIT_MARGIN = 5
 You can modify these values based on your needs.
 
 ⚠️ Notes
-Ensure Excel file name matches script
-Close browser tab before pressing ENTER for next link
-Invalid prices are automatically skipped
-💡 Future Improvements
-GUI Interface (Tkinter / Web App)
-Automatic scraping of prices
-Bulk processing without manual input
-Integration with APIs
-👨‍💻 Author
+Ensure Excel file name matches script  
+Close browser tab before pressing ENTER for next link   
+Invalid prices are automatically skipped   
+💡 Future Improvements   
+GUI Interface (Tkinter / Web App)   
+Automatic scraping of prices   
+Bulk processing without manual input   
+Integration with APIs   
+👨‍💻 Author   
 
 Hamdan Saddique
-AI & Automation Enthusiast
 
 ⭐ Support
 
