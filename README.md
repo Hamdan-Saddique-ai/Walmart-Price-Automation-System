@@ -85,19 +85,19 @@ PROFIT_MARGIN = 5
 
 You can modify these values based on your needs.
 
-⚠️ Notes
+## ⚠️ Notes
 Ensure Excel file name matches script  
 Close browser tab before pressing ENTER for next link   
 Invalid prices are automatically skipped   
-💡 Future Improvements   
+## 💡 Future Improvements   
 GUI Interface (Tkinter / Web App)   
 Automatic scraping of prices   
 Bulk processing without manual input   
 Integration with APIs   
-👨‍💻 Author   
+## 👨‍💻 Author   
 
 Hamdan Saddique
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
