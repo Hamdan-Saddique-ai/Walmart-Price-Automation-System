@@ -1,4 +1,5 @@
 # 🛒 Walmart Price Automation System
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/821a9fe0-f9ce-489e-b5a3-d2fc1e4d3b64" />
 
 A Python-based automation tool designed to simplify product pricing and link management for Walmart workflows. This project reads product data from Excel, updates prices with additional costs, and automates opening product URLs for review.
 
